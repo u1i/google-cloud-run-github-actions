@@ -1,5 +1,5 @@
 # Google Cloud Run Github Actions
-A sample project with a Github Action for deploying to Google Cloud Run.
+A sample project with a Github Action for deploying to Google Cloud Run!
 
 ### [Checkout The Step-By-Step Tutorial](https://towardsdatascience.com/deploy-to-google-cloud-run-using-github-actions-590ecf957af0)
 
